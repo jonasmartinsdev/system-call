@@ -6,7 +6,7 @@
 
 🗔 Confira a aplicação: https://system-call.vercel.app/
 
-🗔 Confira a o Backend: https://github.com/jonasmartinsdev/api-system-call
+🗔 Confira o Backend: https://github.com/jonasmartinsdev/api-system-call
 
 💻 **Sobre o projeto**
 
